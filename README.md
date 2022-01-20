@@ -1,6 +1,6 @@
 # AKC Arte
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/68d30613-a3ad-4161-a904-17d491351310/deploy-status)](https://app.netlify.com/sites/antoniokc/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6ce836b9-956c-4dad-a262-b64727c0193d/deploy-status)](https://app.netlify.com/sites/akc-arte/deploys)
 
 Notas sobre arte.
 
