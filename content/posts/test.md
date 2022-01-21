@@ -49,7 +49,7 @@ let sum = function(a, b) {
 ```
 
 ## Gist
-{{< gist spf13 7896402 >}}
+{{<gist spf13 7896402>}}
 
 ## Maths
 
@@ -57,23 +57,23 @@ $$ c = \pm\sqrt{a^2 + b^2} $$
 
 ## Banners
 
-{{< admonition type=tip title="This is a tip" open=false >}}
+{{<admonition type=tip title="This is a tip" open=false >}}
 A **tip** banner
-{{< /admonition >}}
+{{</admonition>}}
 
 ## Flowchart
 
-{{< mermaid >}}
+{{<mermaid>}}
 graph LR;
     A[Process] -->|Action| B(Result)
     B --> C{Decision}
     C -->|One| D[Result one]
     C -->|Two| E[Result two]
-{{< /mermaid >}}
+{{</mermaid>}}
 
 ## Sequence Diagram
 
-{{< mermaid >}}
+{{<mermaid>}}
 sequenceDiagram
     participant Alice
     participant Bob
@@ -85,11 +85,11 @@ sequenceDiagram
     John-->Alice: Great!
     John->Bob: How about you?
     Bob-->John: Jolly good!
-{{< /mermaid >}}
+{{</mermaid>}}
 
 ## State Diagram
 
-{{< mermaid >}}
+{{<mermaid>}}
 stateDiagram
     [*] --> Still
     Still --> [*]
@@ -97,14 +97,18 @@ stateDiagram
     Moving --> Still
     Moving --> Near
     Near --> [*]
-{{< /mermaid >}}
+{{</mermaid>}}
 
 ## Typeit
 
-{{< typeit >}}
+{{<typeit>}}
 This is a *paragraph* with **typing animation** based on [TypeIt](https://typeitjs.com/)...
-{{< /typeit >}}
+{{</typeit>}}
 
 ## Instagram
 
-{{< instagram BWNjjyYFxVx >}}
+{{<instagram BWNjjyYFxVx>}}
+
+## Youtube
+
+{{<youtube XaKhz3iAxqQ>}}
