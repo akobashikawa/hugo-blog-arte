@@ -1,6 +1,6 @@
 ---
-title: "Acerca de mi"
-date: 2022-01-16T23:24:00-05:00
+title: "Acerca de este blog"
+date: 2022-01-22T10:36:00-05:00
 draft: false
 ---
 
