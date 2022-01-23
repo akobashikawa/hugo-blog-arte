@@ -3,11 +3,11 @@ title: "10 Claves para lograr el Parecido en el Retrato!"
 slug: "XaKhz3iAxqQ"
 categories: ["Dibujo Realista"]
 tags: ["dibujo realista", "dibujo", "youtube"]
+featuredImagePreview: "XaKhz3iAxqQ.jpg"
+images: ["XaKhz3iAxqQ.jpg"]
 draft: false
 date: 2022-01-20T18:17:00-05:00
 ---
-
-## 10 Claves para lograr el Parecido en el Retrato!
 
 {{< youtube XaKhz3iAxqQ >}}
 
