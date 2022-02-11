@@ -14,4 +14,6 @@ date: 2022-02-11T18:08:00-05:00
 
 También es autora de un [curso](https://akcademia.rulokoba.me/dibujo-realista/) para aprender las **técnicas claves para lograr dibujos realistas** con lápiz de grafito.
 
+Sigue el enlace para conseguir un precio promocional.
+
 [>> Quiero saber más del curso **Dibujo Realista**](https://akcademia.rulokoba.me/dibujo-realista/)
