@@ -3,7 +3,7 @@ title: "Dibujo Realista, por Silvia Diaz Art"
 slug: "silvia-diaz-art-dibujo-realista"
 categories: ["Dibujo Realista"]
 tags: ["dibujo realista", "dibujo", "hotmart"]
-featuredImagePreview: "silvia-diaz-art-dibujo-realista.jpg"
+featuredImagePreview: "silvia-diaz-art-dibujo-realista-featured.jpg"
 featuredImage: "silvia-diaz-art-dibujo-realista.jpg"
 images: ["silvia-diaz-art-dibujo-realista.jpg"]
 draft: false
