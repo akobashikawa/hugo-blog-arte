@@ -6,7 +6,7 @@ tags: ["dibujo realista", "dibujo", "youtube"]
 featuredImagePreview: "RW4n471hBlc.jpg"
 images: ["RW4n471hBlc.jpg"]
 draft: false
-date: 2022-01-22T09:54:00-05:00
+date: 2022-01-19T09:54:00-05:00
 ---
 
 {{< youtube RW4n471hBlc >}}
