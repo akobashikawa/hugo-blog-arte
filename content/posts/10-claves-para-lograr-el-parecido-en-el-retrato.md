@@ -1,6 +1,6 @@
 ---
 title: "10 Claves para lograr el Parecido en el Retrato!"
-slug: "XaKhz3iAxqQ"
+slug: "10-claves-para-lograr-el-parecido-en-el-retrato"
 categories: ["Dibujo Realista"]
 tags: ["dibujo realista", "dibujo", "youtube"]
 featuredImagePreview: "XaKhz3iAxqQ.jpg"

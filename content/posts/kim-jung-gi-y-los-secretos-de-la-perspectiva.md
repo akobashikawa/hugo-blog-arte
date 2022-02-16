@@ -1,6 +1,6 @@
 ---
 title: "Kim Jung Gi y los Secretos de la Perspectiva"
-slug: "RW4n471hBlc"
+slug: "kim-jung-gi-y-los-secretos-de-la-perspectiva"
 categories: ["Dibujo Realista"]
 tags: ["dibujo realista", "dibujo", "youtube"]
 featuredImagePreview: "RW4n471hBlc.jpg"

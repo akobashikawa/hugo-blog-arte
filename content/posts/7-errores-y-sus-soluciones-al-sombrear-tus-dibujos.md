@@ -1,6 +1,6 @@
 ---
 title: "7 errores y sus soluciones a la hora de sombrear tus dibujos"
-slug: "qAnLFAnlsSM"
+slug: "7-errores-y-sus-soluciones-al-sombrear-tus-dibujos"
 categories: ["Dibujo Realista"]
 tags: ["dibujo realista", "dibujo", "youtube"]
 featuredImagePreview: "qAnLFAnlsSM.jpg"
