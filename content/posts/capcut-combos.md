@@ -1,8 +1,8 @@
 ---
 title: "Capcut Combos"
 slug: "capcut-combos"
-categories: ["Dibujo Realista"]
-tags: ["dibujo realista", "dibujo", "youtube"]
+categories: ["Videos"]
+tags: ["video", "capcut", "youtube"]
 featuredImagePreview: "capcut-combos.jpg"
 images: ["capcut-combos.jpg"]
 draft: false

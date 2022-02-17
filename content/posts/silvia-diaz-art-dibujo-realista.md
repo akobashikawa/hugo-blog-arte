@@ -1,6 +1,7 @@
 ---
 title: "Dibujo Realista, por Silvia Diaz Art"
 slug: "silvia-diaz-art-dibujo-realista"
+summary: "Sigue el enlace para conseguir un precio promocional."
 categories: ["Dibujo Realista"]
 tags: ["dibujo realista", "dibujo", "hotmart"]
 featuredImagePreview: "silvia-diaz-art-dibujo-realista-featured.jpg"
