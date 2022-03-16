@@ -15,7 +15,7 @@ date: 2022-03-15T14:15:00-05:00
 
 🍀 50% de descuento por tiempo limitado.
 
-Sigue el enlace para conseguir un precio promocional: https://akcverso.xyz/dibujo-realista/
+Sigue el enlace para conseguir un precio promocional: [Quiero aprovechar la oferta](https://akcverso.xyz/dibujo-realista/)
 
 Aprenderás el uso de la luz y las sombras y otras técnicas para aumentar el realismo de un retrato. Desarrollarás tu talento con estas nuevas habilidades
 
@@ -32,4 +32,4 @@ Apresúrate. Empezarán con los conceptos básicos, la elección de tu modelo, l
 
 Anuncio por tiempo limitado. Guárdalo o compártelo en tu perfil.
 
-Sigue el enlace para conseguir un precio promocional: https://akcverso.xyz/dibujo-realista/
+Sigue el enlace para conseguir un precio promocional: [Quiero aprovechar la oferta](https://akcverso.xyz/dibujo-realista/)
