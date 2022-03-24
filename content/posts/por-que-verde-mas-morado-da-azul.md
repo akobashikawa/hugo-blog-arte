@@ -1,6 +1,7 @@
 ---
 title: "¿Por qué VERDE más MORADO da AZUL?"
 slug: "por-que-verde-mas-morado-da-azul"
+summary: "Cosas que no sabías sobre los colores primarios"
 categories: ["Pintura"]
 tags: ["pintura", "youtube"]
 featuredImagePreview: "85hRJSY66zI.jpg"
