@@ -3,7 +3,7 @@ title: "El Señor Bao enjuicia la piedra"
 slug: "el-senor-bao-enjuicia-la-piedra"
 categories: ["Historias"]
 tags: ["cuento", "chino", "china", "filmora", "youtube"]
-featuredImagePreview: "3OW-ZmB7bFM.jpg"
+featuredImagePreview: "el-senor-bao-enjuicia-la-piedra.jpg"
 images: ["3OW-ZmB7bFM.jpg"]
 draft: false
 date: 2022-03-26T22:52:00-05:00
