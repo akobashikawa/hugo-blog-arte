@@ -8,7 +8,7 @@ featuredImagePreview: "silvia-diaz-art-dibujo-realista-pascua-featured.jpg"
 featuredImage: "silvia-diaz-art-dibujo-realista-pascua.jpg"
 images: ["silvia-diaz-art-dibujo-realista-pascua.jpg"]
 draft: false
-date: 2022-03-28T00:11:00-05:00
+date: 2022-03-28T18:17:00-05:00
 ---
 
 ¿Sientes que tus dibujos lucen poco reales o no tienen profundidad? ¿No sabes cómo aplicar sombras y luces en tus obras? ¿No consigues que tus retratos sean expresivos? Consigue las **técnicas clave** para dar **realismo** a tus dibujos.
