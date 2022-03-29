@@ -10,6 +10,8 @@ images: ["silvia-diaz-art-dibujo-realista-pascua.jpg"]
 draft: false
 date: 2022-03-28T18:17:00-05:00
 ---
+[![✨🥚🐇✨ SUPER DESCUENTO DE PASCUA 50% + 30%: 27 USD](silvia-diaz-art-dibujo-realista-pascua.jpg)](https://akcverso.xyz/dibujo-realista-pascua/)
+
 ✨🥚🐇✨ SUPER DESCUENTO DE PASCUA 50% + 30%
 
 Aprende las **técnicas clave** para lograr **realismo** en tus dibujos.
