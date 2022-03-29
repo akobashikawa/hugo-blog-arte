@@ -1,6 +1,6 @@
 ---
 title: "Dibujo Realista Oferta de Pascua, por Silvia Diaz Art"
-slug: "silvia-diaz-art-dibujo-realista-pascua"
+slug: "dibujo-realista-pascua"
 summary: "Consigue un super descuento extra 50% + 30%"
 categories: ["Dibujo Realista"]
 tags: ["dibujo realista", "dibujo", "hotmart"]
