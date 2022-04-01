@@ -2,8 +2,8 @@
 title: "Cómo dibujar un ojo realista con lápiz - paso a paso"
 slug: "como-dibujar-un-ojo-realista-con-lapiz-paso-a-paso"
 summary: "Tutorial paso a paso que anima a dibujar un ojo inventado fácilmente, usando lápiz."
-categories: ["Pintura"]
-tags: ["pintura", "youtube"]
+categories: ["Dibujo Realista"]
+tags: ["dibujo realista", "dibujo", "youtube"]
 featuredImagePreview: "f3SEhqFA_TE.jpg"
 images: ["f3SEhqFA_TE.jpg"]
 draft: false
