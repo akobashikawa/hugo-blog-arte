@@ -1,8 +1,8 @@
 ---
 title: "🔥LA GUÍA DEFINITIVA DE BLENDER! (Tutorial completo en Español) | Desde cero! 2.91 3.0"
 slug: "auraprods-la-guia-definitiva-de-blender"
-categories: ["3D"]
-tags: ["3D", "modelado", "youtube"]
+categories: ["Blender"]
+tags: ["blender", "3D", "modelado", "youtube"]
 featuredImagePreview: "h4hZzPCOMKs.jpg"
 images: ["h4hZzPCOMKs.jpg"]
 draft: false
