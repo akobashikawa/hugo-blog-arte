@@ -7,7 +7,7 @@ tags: ["dibujo realista", "dibujo", "hotmart"]
 featuredImagePreview: "silvia-diaz-art-dibujo-realista-pascua-featured.jpg"
 featuredImage: "silvia-diaz-art-dibujo-realista-pascua.jpg"
 images: ["silvia-diaz-art-dibujo-realista-pascua.jpg"]
-draft: false
+draft: true
 date: 2022-03-28T18:17:00-05:00
 ---
 [![✨🥚🐇✨ SUPER DESCUENTO DE PASCUA 50% + 30%: 27 USD](silvia-diaz-art-dibujo-realista-pascua.jpg)](https://arte.akcstudio.com/dibujo-realista-pascua/)

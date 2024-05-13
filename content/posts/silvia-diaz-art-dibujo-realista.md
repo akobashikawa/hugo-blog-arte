@@ -11,15 +11,13 @@ draft: false
 date: 2022-03-26T22:53:00-05:00
 ---
 
-[OFERTA DE PASCUA SUPER DESCUENTO 50% + 30% SIGUIENDO ESTE ENLACE](https://arte.akcstudio.com/dibujo-realista-pascua/)
+¿Quieres lograr más realismo en tus dibujos? ¿Entender cómo aplicar sombras y luces para que ganen profundidad? ¿Conseguir que tus retratos sean más expresivos? Aprende las técnicas clave para lograrlo.
 
-¿Sientes que tus dibujos lucen poco reales o no tienen profundidad? ¿No sabes cómo aplicar sombras y luces en tus obras? ¿No consigues que tus retratos sean expresivos? Consigue las técnicas clave para dar realismo a tus dibujos.
+ 50% de descuento por tiempo limitado.
 
-🍀 50% de descuento por tiempo limitado.
+**🍀 Sigue el enlace:** [https://akcstudio.com/catalog/dibujo-realista/](https://akcstudio.com/catalog/dibujo-realista/)
 
-**Sigue el enlace para aprovechar el precio promocional:** [https://arte.akcstudio.com/dibujo-realista/](https://arte.akcstudio.com/dibujo-realista/)
-
-Aprenderás el uso de la luz y las sombras y otras técnicas para aumentar el realismo de tu dibujo.
+Aprenderás el uso de la luz, como aplicar sombras, en un método probado que te ayudará a aumentar el realismo de tus dibujos.
 
 Adquiérelo hoy y recibirás:
 
@@ -32,8 +30,8 @@ Gana tiempo con la asesoria personalizada y el acompañamiento paso a paso.
 
 **Silvia Díaz** es una artista visual e ilustradora, experta en ilustración botánica y zoologica, con amplia experiencia profesional y que ha recibido diversos premios y reconocimientos.
 
-Apresúrate. Invierte en tu talento.
+Invierte en tu talento.
 
-Anuncio por tiempo limitado. Guárdalo o compártelo en tu perfil.
+Quieres regalar este curso? Guárda este aviso o compártelo en tu perfil.
 
-**Sigue el enlace para aprovechar el precio promocional:** [https://arte.akcstudio.com/dibujo-realista/](https://arte.akcstudio.com/dibujo-realista/)
+**🍀 Sigue el enlace:** [https://akcstudio.com/catalog/dibujo-realista/](https://akcstudio.com/catalog/dibujo-realista/)
