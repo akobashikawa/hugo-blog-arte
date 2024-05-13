@@ -13,7 +13,7 @@ date: 2024-05-13T13:51:00-05:00
 
 ¿Quieres lograr más realismo en tus dibujos? ¿Entender cómo aplicar sombras y luces para que ganen profundidad? ¿Conseguir que tus retratos sean más expresivos? Aprende las técnicas clave para lograrlo.
 
-**🍀 Sigue el enlace:** [https://akcstudio.com/catalog/dibujo-realista/](https://akcstudio.com/catalog/dibujo-realista/)
+**🍀 Sigue el enlace:** [https://akcstudio.com/catalog/dibujo-realista.html](https://akcstudio.com/catalog/dibujo-realista.html)
 
 Aprenderás el uso de la luz, como aplicar sombras, en un método probado que te ayudará a aumentar el realismo de tus dibujos.
 
@@ -30,4 +30,4 @@ Adquiérelo hoy y recibirás:
 
 Quieres regalar este curso? Guárda este aviso o compártelo en tu perfil.
 
-**🍀 Sigue el enlace:** [https://akcstudio.com/catalog/dibujo-realista/](https://akcstudio.com/catalog/dibujo-realista/)
+**🍀 Sigue el enlace:** [https://akcstudio.com/catalog/dibujo-realista.html](https://akcstudio.com/catalog/dibujo-realista.html)
