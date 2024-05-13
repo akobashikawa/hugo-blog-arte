@@ -9,7 +9,7 @@ images: ["silvia-diaz-art-dibujo-realista-pascua.jpg"]
 draft: false
 date: 2022-03-28T18:17:00-05:00
 ---
-[![✨🥚🐇✨ SUPER DESCUENTO DE PASCUA 50% + 30%: 27 USD](silvia-diaz-art-dibujo-realista-pascua.jpg)](https://akcverso.xyz/dibujo-realista-pascua/)
+[![✨🥚🐇✨ SUPER DESCUENTO DE PASCUA 50% + 30%: 27 USD](silvia-diaz-art-dibujo-realista-pascua.jpg)](https://arte.akcstudio.com/dibujo-realista-pascua/)
 
 ✨🥚🐇✨ SUPER DESCUENTO DE PASCUA 50% + 30%
 
@@ -21,7 +21,7 @@ Imagina dibujar como siempre has querido.
 
 Aprenderás el uso de **la luz y las sombras** y otras técnicas para aumentar el realismo de tu dibujo.
 
-**Sigue el enlace para aprovechar el precio promocional:** [https://akcverso.xyz/dibujo-realista-pascua/](https://akcverso.xyz/dibujo-realista-pascua/)
+**Sigue el enlace para aprovechar el precio promocional:** [https://arte.akcstudio.com/dibujo-realista-pascua/](https://arte.akcstudio.com/dibujo-realista-pascua/)
 
 Apresúrate. **Invierte** en tu talento.
 

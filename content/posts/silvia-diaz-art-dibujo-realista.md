@@ -11,13 +11,13 @@ draft: false
 date: 2022-03-26T22:53:00-05:00
 ---
 
-[OFERTA DE PASCUA SUPER DESCUENTO 50% + 30% SIGUIENDO ESTE ENLACE](https://akcverso.xyz/dibujo-realista-pascua/)
+[OFERTA DE PASCUA SUPER DESCUENTO 50% + 30% SIGUIENDO ESTE ENLACE](https://arte.akcstudio.com/dibujo-realista-pascua/)
 
 ¿Sientes que tus dibujos lucen poco reales o no tienen profundidad? ¿No sabes cómo aplicar sombras y luces en tus obras? ¿No consigues que tus retratos sean expresivos? Consigue las técnicas clave para dar realismo a tus dibujos.
 
 🍀 50% de descuento por tiempo limitado.
 
-**Sigue el enlace para aprovechar el precio promocional:** [https://akcverso.xyz/dibujo-realista/](https://akcverso.xyz/dibujo-realista/)
+**Sigue el enlace para aprovechar el precio promocional:** [https://arte.akcstudio.com/dibujo-realista/](https://arte.akcstudio.com/dibujo-realista/)
 
 Aprenderás el uso de la luz y las sombras y otras técnicas para aumentar el realismo de tu dibujo.
 
@@ -36,4 +36,4 @@ Apresúrate. Invierte en tu talento.
 
 Anuncio por tiempo limitado. Guárdalo o compártelo en tu perfil.
 
-**Sigue el enlace para aprovechar el precio promocional:** [https://akcverso.xyz/dibujo-realista/](https://akcverso.xyz/dibujo-realista/)
+**Sigue el enlace para aprovechar el precio promocional:** [https://arte.akcstudio.com/dibujo-realista/](https://arte.akcstudio.com/dibujo-realista/)
